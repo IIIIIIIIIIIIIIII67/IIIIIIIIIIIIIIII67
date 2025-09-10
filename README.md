@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there, I’m IIIIIIIIIIIIIIII  
 
-<!--
-**IIIIIIIIIIIIIIII67/IIIIIIIIIIIIIIII67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Socials  
+- [guns.lol/67balls67](https://guns.lol/67balls67)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 GitHub Streaks  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IIIIIIIIIIIIIIII67&theme=radical)](https://github.com/IIIIIIIIIIIIIIII67)
+
+## 📊 GitHub Stats  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=IIIIIIIIIIIIIIII67&show_icons=true&theme=radical)](https://github.com/IIIIIIIIIIIIIIII67)
+
+---
+
+## 🐍 About Me  
+I’m learning **Python**, exploring projects, and messing around with GitHub while I figure it all out.  
+
+---
