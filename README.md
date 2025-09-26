@@ -3,7 +3,8 @@
 ---
 
 ## 🌐 Socials  
-- [guns.lol/67balls67](https://guns.lol/67balls67)  
+- [guns.lol](https://guns.lol/67balls67)
+- [haunt.bio](https://haunt.gg/nocturnal)
 
 ---
 
